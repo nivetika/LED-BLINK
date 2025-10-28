@@ -41,26 +41,29 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 ### 🧭 **Procedure**
 
 1. Open **STM32CubeIDE**.
-   <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/109135f6-e6f9-46f8-86e1-ecafa6170b01" />
+    <img width="1920" height="1200" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6c783da5-5b30-47ae-ba37-9a13755c908d" />
+
 
 2. Click **File → New STM32 Project**.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/edf33429-8eea-4857-a991-c2d7706fc787" />
+   <img width="1920" height="1200" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/de29e2f4-270f-46ac-b4f1-4efe659a0c1b" />
+   <img width="1920" height="1200" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/5b72abfe-fc21-4aa7-b717-5177312574f0" />
+
 
 3. Select the **target microcontroller** or board and click **Next**.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
-
-
+   <img width="1920" height="1200" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/ab6afe9b-c25c-4dc9-a840-a181197584e8" />
 
 4. Name the project.
-   <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
+   <img width="1920" height="1200" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/723b7ed1-9d6d-4653-a271-744ad5440925" />
+
 
 5. The corresponding `.ioc` file will be generated automatically.
-  <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
+   <img width="1920" height="1200" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/12ca6c23-6e6d-473f-82fc-47e32548e611" />
+
 
 6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
-<img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
+    <img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/ee86c624-608e-4c44-a3dc-09759fc0e2e9" />
+    <img width="1920" height="1200" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/72ef6c72-72e9-4a84-bf0f-15b64304489e" />
+
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
