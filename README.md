@@ -66,20 +66,20 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
+   <<img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/ee726be1-fb2c-4edf-9ac6-6133432c71ed" />
+
  
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
-<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
+   <<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/fb36fe89-424a-4215-aa0e-04b5ebd965a8" />
 
 9. Click **Project → Build All**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
+    <img width="1127" height="530" alt="Screenshot 2025-10-28 162605" src="https://github.com/user-attachments/assets/bdf7b029-857e-4bc0-ab3f-f2598e38a6a5" />
 
 10. Link the **HEX file** using the post-build process.
-    <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
+   <img width="1127" height="530" alt="Screenshot 2025-10-28 162605" src="https://github.com/user-attachments/assets/34850629-e940-4b47-82b7-322c41c03088" />
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+    <img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/0788b0d9-cb40-49b8-ab62-d2df38187de4" />
 
 13. Click **Run** to execute the program.
     
@@ -113,7 +113,11 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+<img width="524" height="468" alt="Screenshot 2025-10-27 133521" src="https://github.com/user-attachments/assets/192488a3-fe15-4329-9a2c-8dcdce6427ab" />
+
 CASE 2: LED OFF
+
+![WhatsApp Image 2025-10-27 at 13 24 57_916b1201](https://github.com/user-attachments/assets/addf8d31-8ddf-4831-9b2f-e3631f74630b)
 
 ---
 ### RESULT
